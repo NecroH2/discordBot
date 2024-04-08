@@ -1,0 +1,16 @@
+{
+  "clientId": "1226047396446998568",
+  "prefix": "!",
+  "emoji": {
+    "play": "▶️",
+    "stop": "⏹️",
+    "queue": "📄",
+    "success": "☑️",
+    "repeat": "🔁",
+    "error": "❌",
+    "pause":"⏸",
+    "skip": "⏩",
+    "back": "⏪",
+    "pausePlay": "⏯"
+  }
+}
