@@ -18,7 +18,7 @@ const client = new Client({
 client.distube = new DisTube(client, { 
   emitNewSongOnly: false,
   leaveOnEmpty: true, 
-  //leaveOnFinish: true,
+  leaveOnFinish: true,
   leaveOnStop: true,
   savePreviousSongs: true,
   emitAddSongWhenCreatingQueue: false,
